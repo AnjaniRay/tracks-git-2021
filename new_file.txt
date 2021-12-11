@@ -10,3 +10,6 @@ AKR 3
 bb1
 bb2
 bb3
+Modus operandi is a Latin term used in English-speaking circles to describe an individual's or group's habitual way of operating,
+which forms a discernible pattern.
+Modus operandi can also be defined as a specific method of operation.
